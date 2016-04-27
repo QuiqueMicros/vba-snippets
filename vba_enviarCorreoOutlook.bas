@@ -2,9 +2,7 @@ Attribute VB_Name = "modOutlook"
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 '                           >>> binarytopic.com <<<                            '
 '                            coded by Diego F.C.                               '
-'                                                                              '
 '            http://binarytopic.com/enviar-correo-desde-excel-vba/             '
-'                                                                              '
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 Option Explicit
